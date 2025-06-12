@@ -1,0 +1,6 @@
+git hub  command
+
+ git config --global user.email maldhurekanchan929@gmail.com
+
+  git config --global user.name kanchan12011995
+
